@@ -1,16 +1,16 @@
 # Ateeb Mazhar
 
 <p align="left">
-  <strong>Full Stack Developer • AI/ML Builder • Co-founder at <a href="https://prepzii.vercel.app">Prepzii</a></strong><br>
+  <strong>Full Stack Developer • AI/ML Builder • Co-founder at <a href="https://www.prepzii.com/">Prepzii</a></strong><br>
   <em>B.Tech in Computer Science & Engineering, Techno India University, Kolkata (2023–2027)</em>
 </p>
 
 <p align="left">
   <a href="https://ateebmazhar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ateebmazhar.vercel.app-2563EB?style=flat-square" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/ateebmazhar"><img src="https://img.shields.io/badge/LinkedIn-ateebmazhar-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ateeb10"><img src="https://img.shields.io/badge/LinkedIn-ateeb10-0A66C2?style=flat-square" alt="LinkedIn"></a>
   <a href="https://skalekraft.in"><img src="https://img.shields.io/badge/Agency-SkaleKraft.in-10B981?style=flat-square" alt="SkaleKraft"></a>
-  <a href="https://prepzii.vercel.app"><img src="https://img.shields.io/badge/Platform-Prepzii-7C3AED?style=flat-square" alt="Prepzii"></a>
-  <a href="mailto:ateebmazhar07@gmail.com"><img src="https://img.shields.io/badge/Email-ateebmazhar07%40gmail.com-EA4335?style=flat-square" alt="Email"></a>
+  <a href="https://www.prepzii.com/"><img src="https://img.shields.io/badge/Platform-Prepzii.com-7C3AED?style=flat-square" alt="Prepzii"></a>
+  <a href="mailto:ateebmazhar17@gmail.com"><img src="https://img.shields.io/badge/Email-ateebmazhar17%40gmail.com-EA4335?style=flat-square" alt="Email"></a>
 </p>
 
 ---
@@ -50,13 +50,13 @@ DevOps/Tool │ Docker • Postman • Vite • Linux / macOS Environments
 
 ## 🚀 Featured Engineering Projects
 
-### 1. [Prepzii](https://prepzii.vercel.app) — AI-Powered Exam Preparation & Analytics Platform
+### 1. [Prepzii](https://www.prepzii.com/) — AI-Powered Exam Preparation & Analytics Platform
 **Role:** Co-Founder & Full-Stack Developer &nbsp;•&nbsp; **Stack:** Next.js 14, React, Supabase PostgreSQL, Clerk, Tailwind CSS  
 - Engineered an end-to-end exam practice ecosystem for JEE and NEET competitive aspirants.
 - Built a realistic mock exam engine featuring timed section controllers, question palette synchronization, and instant percentile scoring.
 - Implemented **"Zi"**, an intelligent study assistant offering step-by-step doubt resolution tailored to high-school STEM curricula.
 - Designed database schemas in Supabase PostgreSQL with strict Row Level Security (RLS) policies for multi-tenant student data isolation.
-- **Links:** [Live Platform](https://prepzii.vercel.app) • [Repository (ai-study-web)](https://github.com/Ateebkhan107/ai-study-web)
+- **Links:** [Live Platform](https://www.prepzii.com/) • [Repository (ai-study-web)](https://github.com/Ateebkhan107/ai-study-web)
 
 ### 2. [CaseFlow](https://github.com/Ateebkhan107) — Legal Document Intelligence & RAG System
 **Role:** AI & Full-Stack Developer &nbsp;•&nbsp; **Stack:** Next.js, Python, RAG Pipeline, Vector Embeddings, LLM APIs, Tailwind CSS  
@@ -117,7 +117,7 @@ DevOps/Tool │ Docker • Postman • Vite • Linux / macOS Environments
 I am always interested in discussing technical architectures, full-stack/AI engineering opportunities, and startup collaborations.
 
 - 🌐 **Portfolio:** [ateebmazhar.vercel.app](https://ateebmazhar.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/ateebmazhar](https://linkedin.com/in/ateebmazhar)
+- 💼 **LinkedIn:** [linkedin.com/in/ateeb10](https://www.linkedin.com/in/ateeb10)
 - 🏢 **SkaleKraft:** [skalekraft.in](https://skalekraft.in)
-- 🚀 **Prepzii:** [prepzii.vercel.app](https://prepzii.vercel.app)
-- ✉️ **Direct Email:** [ateebmazhar07@gmail.com](mailto:ateebmazhar07@gmail.com)
+- 🚀 **Prepzii:** [prepzii.com](https://www.prepzii.com/)
+- ✉️ **Direct Email:** [ateebmazhar17@gmail.com](mailto:ateebmazhar17@gmail.com)
