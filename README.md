@@ -84,31 +84,14 @@ DevOps/Tool │ Docker • Postman • Vite • Linux / macOS Environments
 - Designed modules for structured assessment authoring, cohort attendance tracking, and administrative performance telemetry.
 - **Status:** Institutional Build *(Private)*
 
-### 6. [Fasting Twin](https://github.com/Ateebkhan107) — Metabolic Digital Twin & Predictive Health PoC
-**Role:** Researcher & Developer &nbsp;•&nbsp; **Stack:** Python, Predictive Modeling, REST APIs  
-- Proof of concept exploring digital twin principles applied to human metabolic rhythms during intermittent fasting windows.
-- Simulates metabolic state transitions to forecast energy availability and provide predictive biomarker insights.
-- **Status:** Concept & Research Prototype
-
 ---
 
 ## 🎨 Additional Public Implementations
 
 | Project | Highlights | Stack | Links |
 |:---|:---|:---|:---|
-| **SmileAura Dental Studio** | Luxury editorial dental clinic showcase with rich typographic layout | Next.js, TypeScript, Tailwind, Framer Motion | [Demo](https://dental-website-two-nu.vercel.app) • [Code](https://github.com/Ateebkhan107/dental_website) |
 | **Ateeb Mazhar 3D Portfolio** | Cyber-minimal portfolio featuring interactive 3D scenes | React 19, Vite, Three.js, Tailwind CSS | [Live](https://ateebmazhar.vercel.app) • [Code](https://github.com/Ateebkhan107/ATEEBMAZHAR) |
 | **Pop Rush Arcade** | High-performance 2D arcade browser game with zero dependencies | Phaser 3, TypeScript, Vite | [Code](https://github.com/Ateebkhan107/Balloon-pop-game) |
-| **FocuzXP** | Gamified productivity timer with XP progression and task queues | Next.js, TypeScript, Tailwind CSS | [Demo](https://focuzxp.vercel.app) • [Code](https://github.com/Ateebkhan107/focuzxp) |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ateebkhan107&show_icons=true&theme=github_dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ateebkhan107&layout=compact&theme=github_dark&hide_border=true" height="150" alt="Top Languages" />
-</div>
 
 ---
 
