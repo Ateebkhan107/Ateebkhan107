@@ -58,12 +58,12 @@ DevOps/Tool │ Docker • Postman • Vite • Linux / macOS Environments
 - Designed database schemas in Supabase PostgreSQL with strict Row Level Security (RLS) policies for multi-tenant student data isolation.
 - **Links:** [Live Platform](https://www.prepzii.com/) • [Repository (ai-study-web)](https://github.com/Ateebkhan107/ai-study-web)
 
-### 2. [CaseFlow](https://github.com/Ateebkhan107) — Legal Document Intelligence & RAG System
+### 2. [CaseFlow](https://github.com/Ateebkhan107/CaseFlow) — Legal Document Intelligence & RAG System
 **Role:** AI & Full-Stack Developer &nbsp;•&nbsp; **Stack:** Next.js, Python, RAG Pipeline, Vector Embeddings, LLM APIs, Tailwind CSS  
 - Developed a legal document intelligence application leveraging Retrieval-Augmented Generation (RAG) to eliminate AI hallucinations.
 - Built a custom ingestion pipeline that parses, chunks, and indexes complex statutory provisions and multi-page legal contracts.
 - Integrated semantic similarity retrieval allowing natural language queries to match exact contract clauses with citation pinpoints.
-- **Status:** Research Proof of Concept *(Private Repository — Architectural overview available on request)*
+- **Links:** [Repository](https://github.com/Ateebkhan107/CaseFlow)
 
 ### 3. [SkaleKraft](https://skalekraft.in) — Modern Digital Agency & Brand Platform
 **Role:** Founder & Lead Developer &nbsp;•&nbsp; **Stack:** Next.js 15, TypeScript, Tailwind CSS, Framer Motion, Resend, Vercel  
@@ -78,11 +78,11 @@ DevOps/Tool │ Docker • Postman • Vite • Linux / macOS Environments
 - Integrated real-time debounced search, genre filtering, dynamic modal previews, and persistent client-side watchlist state.
 - **Links:** [Live Demo](https://movie-explorer-puce-ten.vercel.app) • [Repository](https://github.com/Ateebkhan107/Movie-explorer)
 
-### 5. [LMS Platform](https://github.com/Ateebkhan107) — Institutional Learning & Student Analytics Portal
+### 5. [LMS Platform](https://github.com/Ateebkhan107/LMS-System) — Institutional Learning & Student Analytics Portal
 **Role:** Full-Stack Developer &nbsp;•&nbsp; **Stack:** Next.js, TypeScript, PostgreSQL, REST APIs, Tailwind CSS  
 - Architectural implementation of an institution-focused learning management system.
 - Designed modules for structured assessment authoring, cohort attendance tracking, and administrative performance telemetry.
-- **Status:** Institutional Build *(Private)*
+- **Links:** [Repository](https://github.com/Ateebkhan107/LMS-System)
 
 ---
 
